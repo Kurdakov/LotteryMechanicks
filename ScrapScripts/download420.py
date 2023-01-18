@@ -1,3 +1,4 @@
+# scipt originally is posted here https://stackoverflow.com/questions/915342/Скрипт-не-загружает-данные-с-сайта-в-csv-файл
 from bs4 import BeautifulSoup
 import urllib
 from urllib.request import urlopen
