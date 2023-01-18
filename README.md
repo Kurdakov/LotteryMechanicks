@@ -1,3 +1,3 @@
 # LotteryMechanicks
 Lottery scripts and sample neural networks
-Project blog is https://lotterymechanicks.substack.com
+Project blog is https://lotterymechanics.substack.com
